@@ -37,3 +37,9 @@
 自定义类型和分区执行 Reduce （也就是把Map处理过后的不同数据分给不同的Reduce）
 
 > 数据文件 data/user_login.txt
+
+### hadoop-test-friend-recommendation
+
+用于推荐好友，如 1 有好友 2，3 则向 2 推荐 3 向 3 推荐2
+
+> 数据文件 data/qqfriend.txt
